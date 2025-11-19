@@ -2,4 +2,4 @@ streamlit
 tensorflow
 Pillow
 transformers
-torch
+torch==2.8.0
